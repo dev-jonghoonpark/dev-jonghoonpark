@@ -1,8 +1,8 @@
 👋 Hi, I’m jonghoonpark
 
 ✏️ I write posts on two blogs
-- [tech post](https://jonghoonpark.com)
-- [algorithm post](https://algorithm.jonghoonpark.com)
+- [tech blog](https://jonghoonpark.com)
+- [algorithm blog](https://algorithm.jonghoonpark.com)
 
 🌱 I’m interested in opensource contribute
 
