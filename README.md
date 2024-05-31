@@ -15,6 +15,8 @@
     - [jdk21 compatibility](https://github.com/querydsl/querydsl/pull/3705)
   - valkey.io
     - [List test files dynamically](https://github.com/valkey-io/valkey/pull/313)
+  - redis
+    - [List test files dynamically](https://github.com/redis/redis/pull/13220)
   - mockito
     - [Fixes #3331 : Fix AdditionalMatchers.and() and AdditionalMatchers.or() not to swap the order of matchers](https://github.com/mockito/mockito/pull/3335)
 
