@@ -6,7 +6,10 @@
 - [algorithm blog](https://algorithm.jonghoonpark.com)
 
 🌱 I’m interested in opensource contribute
-- from 2024
+
+<details open>
+  <summary>2024</summary>
+
   - playwright
     - [feat(expect): Make toPass's option configurable by TestConfig](https://github.com/microsoft/playwright/pull/28231)
     - [feat(ui-mode): add key shortcuts for playwright uI test runner](https://github.com/microsoft/playwright/pull/29868)
@@ -19,6 +22,13 @@
     - [List test files dynamically](https://github.com/redis/redis/pull/13220)
   - mockito
     - [Fixes #3331 : Fix AdditionalMatchers.and() and AdditionalMatchers.or() not to swap the order of matchers](https://github.com/mockito/mockito/pull/3335)
+</details>
+
+<details open>
+  <summary>2025</summary>
+
+  - Spring AI
+</details>
 
 ---
 
