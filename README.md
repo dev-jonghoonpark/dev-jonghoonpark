@@ -28,6 +28,9 @@
   <summary>2025</summary>
 
   - Spring AI
+    - Continuously contributing as a backend developer in serving AI models.
+      - Working on adding detailed option features for various AI models and improving code design.
+    - Continually learn about trends in AI technology.
 </details>
 
 ---
