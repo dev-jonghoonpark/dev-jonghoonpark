@@ -1,13 +1,8 @@
 👋 Hi, I’m jonghoonpark
 
-✏️ I write posts on two blogs
-
-- [tech blog](https://jonghoonpark.com)
-- [algorithm blog](https://algorithm.jonghoonpark.com)
-
 🌱 I’m interested in opensource contribute
 
-<details open>
+<details>
   <summary>2024</summary>
 
   - playwright
@@ -27,10 +22,22 @@
 <details open>
   <summary>2025</summary>
 
+  - OpenJDK
+    - [8365782: Remove unnecessary inclusion of <stdlib.h> in jfrOSInterface.cpp](https://github.com/openjdk/jdk/pull/27639)
+    - [8366716: Move SmapsParser from runtime/os/TestTracePageSizes.java into testlib](https://github.com/openjdk/jdk/pull/27273)
+    - [8364927: Add @requires annotation to TestReclaimStringsLeaksMemory.java](https://github.com/openjdk/jdk/pull/26766)
+  - GraalVM
+    - [chore: remove unused imports in NativeTestMojo.java](https://github.com/graalvm/native-build-tools/pull/737)
+    - [\[GR-65559\] Add JNI registration Attach API](https://github.com/oracle/graal/pull/11199)
+  - Kotlin
+    - [\[KT-80003\]\[K/N\] deprecate eager GlobalData initialization](https://github.com/JetBrains/kotlin/pull/5484)
   - Spring AI
-    - Continuously contributing as a backend developer in serving AI models.
-      - Working on adding detailed option features for various AI models and improving code design.
-    - Continually learn about trends in AI technology.
+    - 40+ PR merged ([link](https://github.com/spring-projects/spring-ai/pulls?q=is%3Apr+author%3Adev-jonghoonpark))
+  - a2a-java
+    - [feat: Add a2a-tck runs to CI for PRs (GH-152)](https://github.com/a2aproject/a2a-java/pull/162)
+  - djl
+    - [Add NDArray diagonal](https://github.com/deepjavalibrary/djl/pull/3724) 
+
 </details>
 
 ---
