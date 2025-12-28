@@ -27,7 +27,6 @@
     - [8366716: Move SmapsParser from runtime/os/TestTracePageSizes.java into testlib](https://github.com/openjdk/jdk/pull/27273)
     - [8364927: Add @requires annotation to TestReclaimStringsLeaksMemory.java](https://github.com/openjdk/jdk/pull/26766)
   - GraalVM
-    - [chore: remove unused imports in NativeTestMojo.java](https://github.com/graalvm/native-build-tools/pull/737)
     - [\[GR-65559\] Add JNI registration Attach API](https://github.com/oracle/graal/pull/11199)
   - Kotlin
     - [\[KT-80003\]\[K/N\] deprecate eager GlobalData initialization](https://github.com/JetBrains/kotlin/pull/5484)
