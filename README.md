@@ -39,6 +39,14 @@
 
 </details>
 
+<details open>
+  <summary>2026</summary>
+
+  - OpenJDK
+    - [8372040: Remove Prefetch header vs inline header separation](https://github.com/openjdk/jdk/pull/29096)
+  
+</details>
+
 ---
 
 ![github contribution grid animation](https://raw.githubusercontent.com/dev-jonghoonpark/dev-jonghoonpark/output/github-contribution-grid-snake.svg)
