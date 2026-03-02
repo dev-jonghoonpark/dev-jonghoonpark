@@ -45,6 +45,7 @@
   - OpenJDK
     - [8372040: Remove Prefetch header vs inline header separation](https://github.com/openjdk/jdk/pull/29096)
     - [8377309: Remove PhaseIterGVN::verify_Identity_for exclusion for Min/Max find identity op](https://github.com/openjdk/jdk/pull/29863)
+    - [8378128: Make PLABStats data members private](https://github.com/openjdk/jdk/pull/29982)
   
 </details>
 
