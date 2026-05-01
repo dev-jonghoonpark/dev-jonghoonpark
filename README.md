@@ -47,6 +47,8 @@
     - [8377309: Remove PhaseIterGVN::verify_Identity_for exclusion for Min/Max find identity op](https://github.com/openjdk/jdk/pull/29863)
     - [8378128: Make PLABStats data members private](https://github.com/openjdk/jdk/pull/29982)
     - [8379873: Remove undefined debugging declarations in os_windows.cpp](https://github.com/openjdk/jdk/pull/30428)
+    - [8381924: Fix include guard in lambdaProxyClassDictionary.hpp](https://github.com/openjdk/jdk/pull/30689)
+    - [8382312: Cleanup instanceKlass dead code](https://github.com/openjdk/jdk/pull/30810)
   
 </details>
 
