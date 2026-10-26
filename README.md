@@ -51,7 +51,7 @@
     - [8382312: Cleanup instanceKlass dead code](https://github.com/openjdk/jdk/pull/30810)
     - [8392942: C2: Missed Ideal optimization opportunity for ConvL2I](https://github.com/openjdk/jdk/pull/33194)
     - [8367717: Cleanup atomic_copy64](https://github.com/openjdk/jdk/pull/27642)
-  
+    - [8379512: C2: Remove macro node flag once a node is removed from Compile::_macro_nodes- #31110](https://github.com/openjdk/jdk/pull/31110)
 </details>
 
 ---
