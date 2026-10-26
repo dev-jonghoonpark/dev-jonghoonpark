@@ -50,6 +50,7 @@
     - [8381924: Fix include guard in lambdaProxyClassDictionary.hpp](https://github.com/openjdk/jdk/pull/30689)
     - [8382312: Cleanup instanceKlass dead code](https://github.com/openjdk/jdk/pull/30810)
     - [8392942: C2: Missed Ideal optimization opportunity for ConvL2I](https://github.com/openjdk/jdk/pull/33194)
+    - [8367717: Cleanup atomic_copy64](https://github.com/openjdk/jdk/pull/27642)
   
 </details>
 
