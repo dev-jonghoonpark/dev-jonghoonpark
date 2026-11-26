@@ -53,8 +53,9 @@
     - [8367717: Cleanup atomic_copy64](https://github.com/openjdk/jdk/pull/27642)
     - [8379512: C2: Remove macro node flag once a node is removed from Compile::_macro_nodes- #31110](https://github.com/openjdk/jdk/pull/31110)
     - [8394468: Compiler Bug "Invalid pool entry"](https://github.com/openjdk/jdk/pull/33555)
-</details>
     - [8379513: C2: guaranteed_safepoint() should also handle boxing methods](https://github.com/openjdk/jdk/pull/33660)
+
+</details>
 
 ---
 
